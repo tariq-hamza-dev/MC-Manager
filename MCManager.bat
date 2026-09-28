@@ -1,1 +1,0 @@
-@start "" powershell -nop -ep bypass -w h -f "%~dp0MCManager.ps1"
